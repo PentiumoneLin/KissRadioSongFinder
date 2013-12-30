@@ -1,0 +1,11 @@
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Release\KissSongFinder.exe.config
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Release\MainDatabase.sdf
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Release\KissSongFinder.exe
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Release\KissSongFinder.pdb
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Release\KissSongFinder.HistoryForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Release\KissSongFinder.MainForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Release\KissSongFinder.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Release\KissSongFinder.SecurityForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Release\KissSongFinder.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Release\KissSongFinder.exe
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Release\KissSongFinder.pdb

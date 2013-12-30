@@ -1,0 +1,17 @@
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\Youtube.exe
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\Youtube.pdb
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\Google.GData.Client.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\Google.GData.Extensions.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\Google.GData.YouTube.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Youtube.Form1.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Youtube.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Youtube.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Youtube.exe
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Youtube.pdb
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Youtube.csproj.ResolveComReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\Youtube\obj\x86\Debug\Youtube.SmallViewerControl.resources

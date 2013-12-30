@@ -1,0 +1,32 @@
+C:\Users\user\AppData\Local\Temporary Projects\KissSongFinder\obj\x86\Debug\KissSongFinder.MainForm.resources
+C:\Users\user\AppData\Local\Temporary Projects\KissSongFinder\obj\x86\Debug\KissSongFinder.Properties.Resources.resources
+C:\Users\user\AppData\Local\Temporary Projects\KissSongFinder\obj\x86\Debug\KissSongFinder.csproj.GenerateResource.Cache
+C:\Users\user\AppData\Local\Temporary Projects\KissSongFinder\bin\Debug\KissSongFinder.exe
+C:\Users\user\AppData\Local\Temporary Projects\KissSongFinder\bin\Debug\KissSongFinder.pdb
+C:\Users\user\AppData\Local\Temporary Projects\KissSongFinder\obj\x86\Debug\KissSongFinder.exe
+C:\Users\user\AppData\Local\Temporary Projects\KissSongFinder\obj\x86\Debug\KissSongFinder.pdb
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.exe
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.pdb
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\KissSongFinder.exe
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\KissSongFinder.pdb
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.MainForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\MainDatabase.sdf
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\KissSongFinder.exe.config
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.HistoryForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.SecurityForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\Youtube.exe
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\Google.GData.YouTube.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\Google.GData.Client.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\Google.GData.Extensions.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\bin\Debug\Youtube.pdb
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.VideoForm.resources
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\Interop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\AxInterop.ShockwaveFlashObjects.dll
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.csproj.ResolveComReference.cache
+C:\Users\user\documents\visual studio 2010\Projects\KissSongFinder\KissSongFinder\obj\x86\Debug\KissSongFinder.BiUserControl.resources
